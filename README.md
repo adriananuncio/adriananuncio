@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**adriananuncio/adriananuncio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - I am currently a student at Codeup
 - I am currently learning git
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - How to reach me: adrianapnuncio@gmail.com
 - Pronouns: She/Her
 - Fun fact: I have a cat named Luna
--->
+
