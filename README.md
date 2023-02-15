@@ -1,12 +1,8 @@
-### Hi there 👋
+### Hi, I'm Adriana! 
 
+My pronouns are She/Her.
+I'm a data science student at Codeup in San Antonio.
+My projected graduation is June 20, 2023.
 
-- I am currently a student at Codeup
-- I am currently learning git
-- I am looking to collaborate on a project start to end
-- I am looking for help with understanding what I am doing
-- Ask me about all the different jobs I have had.
-- How to reach me: adrianapnuncio@gmail.com
-- Pronouns: She/Her
-- Fun fact: I have a cat named Luna
+Please contact me at adrianapnuncio@gmail
 
